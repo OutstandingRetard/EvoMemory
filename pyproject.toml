@@ -1,5 +1,3 @@
-
-### 3. `pyproject.toml`
 ```toml
 [project]
 name = "evomemory"
