@@ -1,0 +1,18 @@
+
+### 3. `pyproject.toml`
+```toml
+[project]
+name = "evomemory"
+version = "0.1.0"
+description = "Lightweight local memory engine with strategic forgetting and graph lattice for AI agents"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "faiss-cpu",
+    "fastembed",
+    "numpy",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/evomemory"
