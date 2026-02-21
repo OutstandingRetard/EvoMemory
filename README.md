@@ -2,7 +2,7 @@
 
 **Lightweight, local, human-like memory engine for AI agents.**
 
-Built for old hardware (like 2011 Dell OptiPlex), zero cloud, zero heavy runtimes.  
+Built for old hardware (like 2011 Dell old) and even extremely well made memory system for scaling on new gen, zero cloud, zero heavy runtimes.  
 Uses **FAISS + SQLite** with strategic forgetting, graph lattice recall, branching clones, and creative "dissonant" mode.
 
 Perfect for personal agents, co-founders, or any local LLM bot that needs real memory without paying OpenAI or burning CPU.
